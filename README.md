@@ -1,6 +1,6 @@
 # web-api
 
-It's a client-side web api for interacting with a rest-api service.  
+Custom http client for interacting with a rest-api service.  
 Based on the standard js fetch method for request.
 
 To use just create a new model and specify the required endpoint.
