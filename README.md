@@ -1,6 +1,6 @@
 # web-api
 
-Custom http client for interacting with a rest-api service.  
+Custom http-client for interacting with a web-service through rest-api.  
 Based on the standard js fetch method for request.
 
 To use just create a new model and specify the required endpoint.
