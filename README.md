@@ -6,7 +6,7 @@ Based on the standard js fetch method for request.
 To use just create a new model and specify the required endpoint.
 
 ```javascript
-class MyModel from CRUDModel {
+class MyModel extends CRUDModel {
   constructor() {
     super(new Route('api/your-endpoint'))
   }
